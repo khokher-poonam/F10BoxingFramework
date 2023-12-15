@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="F10-Boxing">
+    <test name="F10">
+        <classes>
+            <class name="com.qa.TestCases.HomePageTest"></class>
+            <class name="com.qa.TestCases.SignUpTest"></class>
+        </classes>
+
+    </test>
+
+
+
+</suite>
